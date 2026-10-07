@@ -1,0 +1,24 @@
+{
+  "name": "blood-donor-management",
+  "version": "1.0.0",
+  "description": "Simple blood donor management app using Node.js, Express, MongoDB, and Socket.IO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "blood donor",
+    "mongodb",
+    "express",
+    "socket.io"
+  ],
+  "author": "College Project",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "mongodb": "^6.10.0",
+    "socket.io": "^4.8.1"
+  }
+}
